@@ -19,6 +19,7 @@ TDD:
 [NUnit Github](https://github.com/nunit)  
 [NUnit GUI](https://github.com/NUnitSoftware/nunit-gui/releases)  
 [NUnit Console](https://github.com/nunit/nunit-console/releases/tag/3.8)
+PATH: C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe
 
 ### Exercise1
 
