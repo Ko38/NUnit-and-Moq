@@ -12,7 +12,7 @@ TDD:
 5.  Refactor 
 
 --> Red-Green-Refactor
-
+![Test](./red_green_refactor.png )
 ### NUnit Test Runner
 
 [NUnit Website](http://nunit.org/download/)  
@@ -375,7 +375,7 @@ Try to create Fake, Stubs, and Mock objects for **IMakeMoney**
 We can first try to rewrite the unit test using **Moq**
 ```csharp
 
- [TestFixture]
+[TestFixture]
 public class BankAccountTests
 {
     private BankAccount ba;
