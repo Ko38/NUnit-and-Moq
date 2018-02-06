@@ -45,7 +45,7 @@ After making these three classes, create an abstract class named **Gesture** wit
 public int Beats(Gesture gesture);
 ```
 
-This returns -2 gesture is null or some other invalid input.
+This returns -2 if gesture is null or some other invalid input.
 
 [Exercise1 Solution](./Exercise1.cs)
 
