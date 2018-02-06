@@ -141,7 +141,6 @@ ___
 6. Data-Driven Testing
 ```csharp
 private BankAccount ba;
-
 [SetUp]
 public void SetUp()
 {
